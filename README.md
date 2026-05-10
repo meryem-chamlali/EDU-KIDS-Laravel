@@ -2,7 +2,7 @@
 
 [![Laravel](https://img.shields.io/badge/Laravel-11-red?logo=laravel)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.x-blue?logo=php)](https://php.net)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 
 > Site web éducatif interactif destiné aux enfants du préscolaire et du primaire. Il propose des leçons, des quiz et des jeux ludiques pour faciliter l'apprentissage de manière amusante et engageante.
 
