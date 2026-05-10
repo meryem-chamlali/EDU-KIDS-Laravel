@@ -69,10 +69,3 @@ php artisan migrate
 npm run dev
 php artisan serve
 ```
-
-
-
----
-
-
-<p align="center">Réalisé avec ❤️ dans le cadre d'un projet académique</p>
